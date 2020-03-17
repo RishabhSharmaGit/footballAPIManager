@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "teamsDataPath": "./data/teams.json",
+    "teamsTestDataPath": "./data/teams.test.json"
+}
